@@ -1,0 +1,39 @@
+_repo: The-History-of-England-from-the-Accession-of-James-II.--13-Complete-Contents-of-the-Five-Volu__25902
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macaulay, Thomas Babington Macaulay, Baron
+    aliases:
+    - Macaulay, Lord (Thomas Babington Macaulay)
+    - Macaulay, T. Babington (Thomas Babington)
+    birthdate: 1800
+    deathdate: 1859
+    gutenberg_agent_id: '443'
+    url: http://www.gutenberg.org/2009/agents/443
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Babington_Macaulay,_1st_Baron_Macaulay
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: v. 8 edited by his sister Lady Trevelyn and contains a memoir of Lord
+  Macaulay by the very Rev. the Dean of St. Paul's.
+gutenberg_issued: '2008-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Indexes'
+- !lcsh 'Great Britain -- History -- James II, 1685-1688'
+- !lcsh 'Great Britain -- History -- William and Mary, 1689-1702'
+title: "The History of England, from the Accession of James II.\r\nComplete Contents\
+  \ of the Five Volumes"
+url: http://www.gutenberg.org/ebooks/25902
