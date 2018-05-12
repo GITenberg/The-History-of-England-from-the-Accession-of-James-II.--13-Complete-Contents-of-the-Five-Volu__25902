@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1961
 description: v. 8 edited by his sister Lady Trevelyn and contains a memoir of Lord
   Macaulay by the very Rev. the Dean of St. Paul's.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25902#The-History-of-England-from-the-Accession-of-James-II.--13-Complete-Contents-of-the-Five-Volu_
 gutenberg_issued: '2008-06-26'
 gutenberg_type: Text
 identifiers:
